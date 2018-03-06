@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pamela: Letter One"
-author: "Chester"
+author: "Pamela"
 ---
 
 Dear Father and Mother,
