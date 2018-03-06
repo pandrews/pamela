@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Pamela: Letter Two"
+author: "Pamela"
+---
+
 [In answer to the preceding.]
 
 **Dear Pamela**,
