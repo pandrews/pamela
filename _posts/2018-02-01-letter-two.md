@@ -4,8 +4,6 @@ title: "Pamela: Letter Two"
 author: "John and Elizabeth Andrews"
 ---
 
-[In answer to the preceding.]
-
 **Dear Pamela**,
 
 Your letter was indeed a great trouble, and some comfort, to me and your poor mother. We are troubled, to be sure, for your good lady’s death, who took such care of you, and gave you learning, and, for three or four years past, has always been giving you clothes and linen, and every thing that a gentlewoman need not be ashamed to appear in. But our chief trouble is, and indeed a very great one, for fear you should be brought to anything dishonest or wicked, by being set so above yourself. Every body talks how you have come on, and what a genteel girl you are; and some say you are very pretty; and, indeed, six months since, when I saw you last, I should have thought so myself, if you was not our child. But what avails all this, if you are to be ruined and undone!—Indeed, my dear Pamela, we begin to be in great fear for you; for what signify all the riches in the world, with a bad conscience, and to be dishonest! We are, ‘tis true, very poor, and find it hard enough to live; though once, as you know, it was better with us. But we would sooner live upon the water, and, if possible, the clay of the ditches I contentedly dig, than live better at the price of our child’s ruin.
