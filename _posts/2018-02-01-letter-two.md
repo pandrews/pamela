@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pamela: Letter Two"
-author: "Pamela"
+author: "John and Elizabeth Andrews"
 ---
 
 [In answer to the preceding.]
