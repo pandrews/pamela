@@ -7,7 +7,7 @@ permalink: /about/
 
 This website is a project example for the 2018 Day of Digital Humanities at the University of North Texas.  
 
-While I'll use the site to host a number of projects, it's current focus is on the Samuel Richardson novel, *Pamela, or Virtue Rewarded* first published in 1740. Although this novel was not initially published as a serial, its epistolary format easily translates into separate blog posts.  
+While I'll use the site to host a number of projects, it's current focus is on the Samuel Richardson novel, *Pamela, or Virtue Rewarded* first published in 1740. Although this novel was not initially published as a serial, its epistolary format easily translates into separate blog posts.  Maybe this will be home to a few othe rprojects as well.  
 
 Project files are available for download from this [Google Drive Folder](http://bit.ly/2oMclee).  
 
