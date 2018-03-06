@@ -15,6 +15,7 @@ This website was built using the following resources:
 - [Github](https://github.com/)
 - [Jekyll](https://jekyllrb.com/docs/home/)
 - [Markdown](https://guides.github.com/features/mastering-markdown/)  
+- [Tale](https://chesterhow.github.io/tale/)
 
 And with information from the following tutorials:
 - [The Programming Historian](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages)
